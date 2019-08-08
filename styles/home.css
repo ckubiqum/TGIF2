@@ -1,0 +1,23 @@
+#more {
+    display: none;
+}
+
+#image-home {
+    margin-top: 68px;
+}
+
+body {
+    margin-bottom: 50px;
+}
+
+.container .row nav {
+    padding: 8px 0px 8px 0px;
+}
+
+.col-2 img {
+    width: 100%
+}
+
+.col-4 img {
+    width: 100%
+}
